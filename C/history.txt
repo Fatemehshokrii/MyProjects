@@ -1,0 +1,139 @@
+1_Who was the first President of the United States? (difficulty: easy)
+1) Thomas Jefferson
+2) John Adams
+3) George Washington
+4) James Madison
+answer: 3
+
+2_In what year did Christopher Columbus first arrive in the Americas? (difficulty: easy)
+1) 1492
+2) 1502
+3) 1512
+4) 1522
+answer: 1
+
+3_Which ancient civilization built the pyramids? (difficulty: easy)
+1) Mesopotamian
+2) Egyptian
+3) Greek
+4) Roman
+answer: 2
+
+4_Who was the famous leader of the Indian independence movement against British rule? (difficulty: easy)
+1) Nelson Mandela
+2) Martin Luther King Jr.
+3) Mahatma Gandhi
+4) Che Guevara
+answer: 3
+
+5_Which country gifted the Statue of Liberty to the United States? (difficulty: easy)
+1) Germany
+2) France
+3) Italy
+4) Spain
+answer: 2
+
+6_Who wrote the Declaration of Independence? (difficulty: easy)
+1) George Washington
+2) Benjamin Franklin
+3) Thomas Jefferson
+4) John Adams
+answer: 3
+
+7_What event started World War I? (difficulty: normal)
+1) The invasion of Poland
+2) The sinking of the Lusitania
+3) The assassination of Archduke Franz Ferdinand
+4) The signing of the Treaty of Versailles
+answer: 3
+
+8_Which empire was ruled by Charlemagne? (difficulty: normal)
+1) Byzantine Empire
+2) Holy Roman Empire
+3) Ottoman Empire
+4) Persian Empire
+answer: 2
+
+9_During which war did the Battle of Gettysburg take place? (difficulty: normal)
+1) World War I
+2) World War II
+3) American Civil War
+4) Korean War
+answer: 3
+
+10_What was the main purpose of the Magna Carta? (difficulty: normal)
+1) To establish the British monarchy
+2) To limit the power of the king
+3) To declare independence from France
+4) To establish a new religion
+answer: 2
+
+11_Who was the British Prime Minister during most of World War II? (difficulty: normal)
+1) Neville Chamberlain
+2) Winston Churchill
+3) Clement Attlee
+4) Margaret Thatcher
+answer: 2
+
+12_The term "Iron Curtain" was used to describe the division between which two areas during the Cold War? (difficulty: normal)
+1) North and South America
+2) Europe and Asia
+3) Eastern and Western Europe
+4) Africa and the Middle East
+answer: 3
+
+13_Who was the first female Prime Minister of the United Kingdom? (difficulty: normal)
+1) Theresa May
+2) Margaret Thatcher
+3) Angela Merkel
+4) Indira Gandhi
+answer: 2
+
+14_What was the main reason for the fall of the Roman Empire? (difficulty: hard)
+1) Economic decline
+2) Barbarian invasions
+3) Overexpansion
+4) All of the above
+answer: 4
+
+15_Which ancient civilization used a writing system called cuneiform? (difficulty: hard)
+1) Egyptians
+2) Mesopotamians
+3) Greeks
+4) Romans
+answer: 2
+
+16_Who was the leader of the Soviet Union during the Cuban Missile Crisis? (difficulty: hard)
+1) Joseph Stalin
+2) Nikita Khrushchev
+3) Leonid Brezhnev
+4) Mikhail Gorbachev
+answer: 2
+
+17_The Treaty of Tordesillas divided the New World between which two countries? (difficulty: hard)
+1) Spain and France
+2) Portugal and England
+3) Spain and Portugal
+4) France and England
+answer: 3
+
+18_What was the original purpose of the Great Wall of China? (difficulty: hard)
+1) Trade route protection
+2) Defense against invasions
+3) Border control
+4) To unify China
+answer: 2
+
+19_Which battle is often considered the turning point of the American Revolutionary War? (difficulty: hard)
+1) Battle of Bunker Hill
+2) Battle of Saratoga
+3) Battle of Yorktown
+4) Battle of Lexington and Concord
+answer: 3
+
+20_What was the name of the ship that brought the Pilgrims to America in 1620? (difficulty: hard)
+1) Mayflower
+2) Santa Maria
+3) Pinta
+4) Nina
+answer: 1

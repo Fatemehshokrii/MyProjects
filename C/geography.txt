@@ -1,0 +1,139 @@
+1_What is the capital city of France? (difficulty: easy)
+1) Berlin
+2) Paris
+3) Madrid
+4) Rome
+answer: 2
+
+2_Which continent is known as the "Land Down Under"? (difficulty: easy)
+1) Africa
+2) Asia
+3) Australia
+4) South America
+answer: 3
+
+3_What is the largest ocean on Earth? (difficulty: easy)
+1) Atlantic Ocean
+2) Indian Ocean
+3) Pacific Ocean
+4) Arctic Ocean
+answer: 3
+
+4_Which river is the longest in the world? (difficulty: easy)
+1) Amazon River
+2) Nile River
+3) Yangtze River
+4) Mississippi River
+answer: 2
+
+5_Where is Mount Everest located? (difficulty: easy)
+1) Nepal
+2) China
+3) India
+4) Bhutan
+answer: 1
+
+6_Which country is known as the "Land of the Rising Sun"? (difficulty: easy)
+1) China
+2) Japan
+3) South Korea
+4) Thailand
+answer: 2
+
+7_What is the capital city of Brazil? (difficulty: normal)
+1) Rio de Janeiro
+2) Brasília
+3) São Paulo
+4) Salvador
+answer: 2
+
+8_Which desert is the largest in the world? (difficulty: normal)
+1) Sahara Desert
+2) Arabian Desert
+3) Gobi Desert
+4) Kalahari Desert
+answer: 1
+
+9_Which the longest river in Europe? (difficulty: normal)
+1) Danube River
+2) Rhine River
+3) Volga River
+4) Seine River
+answer: 3
+
+10_What is the largest country by land area in the world? (difficulty: normal)
+1) Russia
+2) Canada
+3) United States
+4) China
+answer: 1
+
+11_Which mountain range is the highest in Africa? (difficulty: normal)
+1) Alps
+2) Andes
+3) Himalayas
+4) Atlas Mountains
+answer: 4
+
+12_Where is the Great Barrier Reef located? (difficulty: normal)
+1) Caribbean Sea
+2) Mediterranean Sea
+3) Coral Sea
+4) Red Sea
+answer: 3
+
+13_What is the capital city of South Africa? (difficulty: normal)
+1) Johannesburg
+2) Pretoria
+3) Cape Town
+4) Durban
+answer: 2
+
+14_Which country is the smallest in the world by land area? (difficulty: hard)
+1) Monaco
+2) Vatican City
+3) Nauru
+4) San Marino
+answer: 2
+
+15_What is the northernmost national capital in the world? (difficulty: hard)
+1) Reykjavik, Iceland
+2) Oslo, Norway
+3) Helsinki, Finland
+4) Nuuk, Greenland
+answer: 1
+
+16_Which ocean lies between Africa and Australia? (difficulty: hard)
+1) Indian Ocean
+2) Pacific Ocean
+3) Atlantic Ocean
+4) Southern Ocean
+answer: 1
+
+17_What is the name of the strait that separates Asia and North America? (difficulty: hard)
+1) Bering Strait
+2) Strait of Gibraltar
+3) Strait of Malacca
+4) Strait of Hormuz
+answer: 1
+
+18_Which country is the southernmost point of mainland Europe located? (difficulty: hard)
+1) Greece
+2) Spain
+3) Portugal
+4) Italy
+answer: 4
+
+19_What is the largest archipelago in the world by area? (difficulty: hard)
+1) Philippines
+2) Indonesia
+3) Japan
+4) Maldives
+answer: 2
+
+20_Which river forms part of the border between the United States and Mexico? (difficulty: hard)
+1) Rio Grande
+2) Colorado River
+3) Mississippi River
+4) Columbia River
+answer: 1

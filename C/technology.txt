@@ -1,0 +1,139 @@
+1_Which company developed the iPhone? (difficulty: easy)
+1) Microsoft
+2) Apple
+3) Google
+4) Samsung
+answer: 2
+
+2-What does CPU stand for in computing? (difficulty: easy)
+1) Computer Processing Unit
+2) Central Processing Unit
+3) Central Programming Unit
+4) Core Processing Unit
+answer: 2
+
+3_Which social media platform is known for its 140-character limit per post? (difficulty: easy)
+1) Facebook
+2) Instagram
+3) Twitter
+4) Snapchat
+answer: 3
+
+4_What does Wi-Fi stand for? (difficulty: easy)
+1) Wireless Fidelity
+2) Wireless Frequency
+3) World Information
+4) Web Interface
+answer: 1
+
+5_Which software application is commonly used for creating and editing documents? (difficulty: easy)
+1) Photoshop
+2) Excel
+3) Word
+4) PowerPoint
+answer: 3
+
+6_Who co-founded Microsoft with Bill Gates? (difficulty: easy)
+1) Steve Jobs
+2) Steve Wozniak
+3) Paul Allen
+4) Mark Zuckerberg
+answer: 3
+
+7_What does HTML stand for in web development? (difficulty: normal)
+1) Hyper Text Markup Language
+2) High Tech Markup Language
+3) Home Tool Markup Language
+4) Hyperlink Text Markup Language
+answer: 1
+
+8_Which programming language is commonly used for developing Android apps? (difficulty: normal)
+1) Swift
+2) Java
+3) C#
+4) Python
+answer: 2
+
+9_What is the name of Amazon's virtual assistant AI? (difficulty: normal)
+1) Siri
+2) Alexa
+3) Cortana
+4) Google Assistant
+answer: 2
+
+10_Which technology company is known for its search engine? (difficulty: normal)
+1) Facebook
+2) Apple
+3) Google
+4) Microsoft
+answer: 3
+
+11_What does VPN stand for in networking? (difficulty: normal)
+1) Virtual Private Network
+2) Virtual Personal Network
+3) Very Private Network
+4) Voice Protocol Network
+answer: 1
+
+12_Which company developed the Windows operating system? (difficulty: normal)
+1) Apple
+2) Microsoft
+3) Google
+4) Linux Foundation
+answer: 2
+
+13_What is the process of converting data into an unreadable format called? (difficulty: hard)
+1) Decryption
+2) Encryption
+3) Compression
+4) Decompression
+answer: 2
+
+14_Which programming language is primarily used for developing iOS applications? (difficulty: normal)
+1) Java
+2) Swift
+3) Python
+4) C++
+answer: 2
+
+15_Which programming language is often used for artificial intelligence and machine learning applications? (difficulty: hard)
+1) Java
+2) Python
+3) C++
+4) Ruby
+answer: 2
+
+16_What is the name of the protocol used to secure communication over the internet, indicated by "https://" in URLs? (difficulty: hard)
+1) HTTP
+2) SSL
+3) TCP
+4) SMTP
+answer: 2
+
+17_Which tech company developed the Linux operating system? (difficulty: hard)
+1) Google
+2) Apple
+3) Microsoft
+4) Linux Foundation
+answer: 4
+
+18_What does IoT stand for in technology? (difficulty: hard)
+1) Internet of Things
+2) Internet over Transmission
+3) Integrated Online Technology
+4) Interactive Online Transfer
+answer: 1
+
+19_Who is often credited with inventing the World Wide Web? (difficulty: hard)
+1) Tim Berners-Lee
+2) Bill Gates
+3) Steve Jobs
+4) Larry Page
+answer: 1
+
+20_What technology standard is used for wireless local area networking? (difficulty: hard)
+1) Bluetooth
+2) NFC
+3) Ethernet
+4) Wi-Fi
+answer: 4
